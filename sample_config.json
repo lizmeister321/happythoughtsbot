@@ -5,7 +5,7 @@
 		"consumer_secret": ""
 	},
 	"animals": 
-		["hippo", "cat", "dog", "bunny", "hedgehog", "seal", "turtle"],
+		["hippo", "cat", "dog", "bunny", "hedgehog", "seal", "turtle", "sloth", "panda"],
 	"flickr_api":{
 		"key":"",
 		"secret":""
