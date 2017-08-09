@@ -1,0 +1,15 @@
+{ "twitter_api": {
+		"access_token": "", 
+		"access_token_secret": "",
+		"consumer_key": "",
+		"consumer_secret": ""
+	},
+	"animals": 
+		["hippo", "cat", "dog", "bunny", "hedgehog", "seal", "turtle"],
+	"flickr_api":{
+		"key":"",
+		"secret":""
+	}
+	
+}
+
